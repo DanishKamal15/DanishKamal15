@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanishKamal15/Data-Science-Projects/main/AI-Powered%20Paper%20Generator/github-header-image.png" width="100%">
+  <img src="https://raw.githubusercontent.com/DanishKamal15/python-projetcsgithub-header-image.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Danish Kamal</h1>
