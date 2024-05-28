@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanishKamal15/python-projetcs/blob/main/github-header-image.png" width="100%">
+  <img src="https://github.com/DanishKamal15/python-projetcs/blob/main/github-header-image.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Danish Kamal</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
+<h3 align="center">A passionate Artificial Intelligence Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishkamal15&label=Profile%20views&color=0e75b6&style=flat" alt="danishkamal15" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **danishkamal1315@gmail.com**
 
-- ⚡ Fun fact **Data scientist on duty, but off-duty, I'm a weekend adventurer, exploring the outdoors and capturing moments in data and photos alike!**
+- ⚡ Fun fact **Artificial Intelligence Engineer on duty, but off-duty, I'm a weekend adventurer, exploring the outdoors and capturing moments in data and photos alike!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
